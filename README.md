@@ -26,7 +26,7 @@ on Windows
 
 **click roc_edge_apps.sln** 
 
-Visual Studio 2009 will start.
+Visual Studio 2019 will start.
 
 
 
