@@ -1,0 +1,26 @@
+﻿2020-04-15 18:28:20.995 WARN  [20816] [main@45] ---------
+2020-04-15 18:28:20.998 WARN  [20816] [main@46] Simulation started.
+2020-04-15 18:28:20.998 WARN  [20816] [urule::UserRule::rrcp_bath_detection@70] rrcp_bath_detection started.
+2020-04-15 18:28:21.067 INFO  [20816] [roc::rrcf_double::Forest::createForestParallel@977] Forest created with number of trees = 100
+2020-04-15 18:28:21.173 WARN  [20816] [urule::UserRule::rrcp_bath_detection@133] rrcp_bath_detection ended.
+
+2020-04-15 18:28:21.183 WARN  [20816] [urule::UserRule::rrcp_streaming_detection@139] rrcp_streaming_detection started.
+2020-04-15 18:28:21.347 WARN  [20816] [urule::UserRule::rrcp_streaming_detection@206] rrcp_streaming_detection ended.
+
+2020-04-15 18:28:21.352 WARN  [20816] [urule::UserRule::rrcp_comparison@212] rrcp_comparison started.
+2020-04-15 18:28:22.469 WARN  [20816] [urule::UserRule::rrcp_comparison@317] rrcp_comparison ended.
+2020-04-15 18:28:22.470 WARN  [20816] [main@50] Simulation ended.
+
+2020-04-15 18:28:48.276 WARN  [28300] [main@45] ---------
+2020-04-15 18:28:48.278 WARN  [28300] [main@46] Simulation started.
+2020-04-15 18:28:48.278 WARN  [28300] [urule::UserRule::rrcp_bath_detection@70] rrcp_bath_detection started.
+2020-04-15 18:28:49.352 INFO  [28300] [roc::rrcf_double::Forest::createForestParallel@977] Forest created with number of trees = 100
+2020-04-15 18:28:49.695 WARN  [28300] [urule::UserRule::rrcp_bath_detection@133] rrcp_bath_detection ended.
+
+2020-04-15 18:28:49.710 WARN  [28300] [urule::UserRule::rrcp_streaming_detection@139] rrcp_streaming_detection started.
+2020-04-15 18:28:51.407 WARN  [28300] [urule::UserRule::rrcp_streaming_detection@206] rrcp_streaming_detection ended.
+
+2020-04-15 18:28:51.416 WARN  [28300] [urule::UserRule::rrcp_comparison@212] rrcp_comparison started.
+2020-04-15 18:28:56.904 WARN  [28300] [urule::UserRule::rrcp_comparison@317] rrcp_comparison ended.
+2020-04-15 18:28:56.905 WARN  [28300] [main@50] Simulation ended.
+
