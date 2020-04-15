@@ -1,24 +1,24 @@
 # Anomaly Detection for IoT
 
+The document  url is,
 
-
-[Document URI:]: https://www.roconics.net/anomaly-detection-for-iot
+https://www.roconics.net/anomaly-detection-for-iot
 
 
 
 To build on Windows / Linux,
 
-cd  RocEdgeApps
+**cd  RocEdgeApps**
 
-cmake apps
+**cmake apps**
 
 Then on linux,
 
-make -j8
+**make -j8**
 
 on Windows
 
-click roc_edge_apps.sln 
+**click roc_edge_apps.sln** 
 
 Visual Studio 2009 will start.
 
