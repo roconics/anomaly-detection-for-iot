@@ -1,0 +1,18 @@
+﻿2020-04-15 18:29:13.167 WARN  [27820] [main@45] ---------
+2020-04-15 18:29:13.169 WARN  [27820] [main@46] Simulation started.
+2020-04-15 18:29:13.169 WARN  [27820] [urule::UserRule::rrcp_nyc_taxi_data_pump@167] rrcp_nyc_taxi_data_pump started.
+2020-04-15 18:29:34.182 WARN  [27820] [urule::UserRule::rrcp_nyc_taxi_data_pump@215] 10320 records are processed. rrcp_nyc_taxi_data_pump ended.
+
+2020-04-15 18:29:34.183 WARN  [27820] [urule::UserRule::writeCsv@29] Writing codisp into csv file.
+
+2020-04-15 18:29:34.871 WARN  [27820] [main@52] Simulation ended.
+
+2020-04-15 18:29:58.067 WARN  [19680] [main@45] ---------
+2020-04-15 18:29:58.069 WARN  [19680] [main@46] Simulation started.
+2020-04-15 18:29:58.070 WARN  [19680] [urule::UserRule::rrcp_nyc_taxi_data_pump@167] rrcp_nyc_taxi_data_pump started.
+2020-04-15 18:33:34.789 WARN  [19680] [urule::UserRule::rrcp_nyc_taxi_data_pump@215] 10320 records are processed. rrcp_nyc_taxi_data_pump ended.
+
+2020-04-15 18:33:34.789 WARN  [19680] [urule::UserRule::writeCsv@29] Writing codisp into csv file.
+
+2020-04-15 18:33:37.113 WARN  [19680] [main@52] Simulation ended.
+
